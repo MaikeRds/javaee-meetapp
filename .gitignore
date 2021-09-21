@@ -1,5 +1,4 @@
 *.class
-*.java
 *.jar
 *.war
 .settings/
@@ -19,3 +18,4 @@ build/
 *.iml
 /bin/
 /build/
+
